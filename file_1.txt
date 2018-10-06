@@ -1,0 +1,17 @@
+I am writing the notes here
+
+and 
+
+i will commit these changes first
+
+
+then
+
+
+i will understand the concept of rebasing 
+
+using 
+
+another branch
+
+
